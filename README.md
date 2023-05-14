@@ -11,9 +11,9 @@ The dataset used in this project is the FIFA 21 Complete Player Dataset, which c
 
 The Jupyter Notebook in this repository, `data_cleaning.ipynb`, performs the following data cleaning tasks:
 
-1. Removes duplicate entries
+1. Properly formatting entries in Columns
 2. Removes irrelevant columns
-3. Renaming Columns
+3. Renaming Columns properly
 4. Fixes data inconsistencies
 
 The cleaned dataset is saved as a new CSV file, `cleaned_fifa21_data.csv`.
