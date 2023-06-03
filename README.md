@@ -1,7 +1,7 @@
 # FIFA 21 Data Cleaning Project
 
-The project was done as a challenge conducted by <a href="https://twitter.com/DataChallengeSp?t=CuCOJFQy2EjDeRDFz2D-Yw&s=09">@DataChallengeSp</a>
- and <a href="https://twitter.com/PromiseNonso_">@PromiseNonso_</a>. This repository contains a Jupyter Notebook that performs data cleaning on a FIFA 21 dataset. 
+The project was done as a challenge conducted by <a href="https://twitter.com/DataChallengeSp?t=CuCOJFQy2EjDeRDFz2D-Yw&s=09">`@DataChallengeSp`</a>
+ and <a href="https://twitter.com/PromiseNonso_">`@PromiseNonso_`</a>. This repository contains a Jupyter Notebook that performs data cleaning on a FIFA 21 dataset. 
 
 ## Dataset
 
